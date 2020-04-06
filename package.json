@@ -74,6 +74,6 @@
     "typescript": "^3.8.3"
   },
   "optionalDependencies": {
-    "clang-tools-prebuilt": "^0.1.4"
+    "clang-tools-prebuilt": "GraphCeppelin/clang-tools-prebuilt#master"
   }
 }
