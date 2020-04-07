@@ -100,7 +100,7 @@
       'libwebrtc/modules/remote_bitrate_estimator/inter_arrival.h',
       'libwebrtc/modules/remote_bitrate_estimator/overuse_detector.h',
       'libwebrtc/modules/remote_bitrate_estimator/overuse_estimator.h',
-      'libwebrtc/modules/remote_bitrate_estimator/bwe_defines.h',
+      'libwebrtc/modules/remote_bitrate_estimator/include/bwe_defines.h',
       'libwebrtc/modules/remote_bitrate_estimator/aimd_rate_control.h',
       'libwebrtc/modules/remote_bitrate_estimator/remote_bitrate_estimator_abs_send_time.h',
       'libwebrtc/modules/remote_bitrate_estimator/include/remote_bitrate_estimator.h',
